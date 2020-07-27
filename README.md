@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAnfal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anfal's github stats](https://github-readme-stats.vercel.app/api?username=MAnfal&count_private=true)
